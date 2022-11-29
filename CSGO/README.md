@@ -20,7 +20,7 @@ Change the Values present in the `--- Customize me ---` Section
 ## [FontManager][FontManager.exe]
 This is a tool to Change your In-Game Font-Style.
 
-[![Watch the video](https://img.youtube.com/vi/3xToNTtdmME/maxresdefault.jpg)](https://youtu.be/3xToNTtdmME)
+[![Watch the video](https://img.youtube.com/vi/3xToNTtdmME/hqdefault.jpg)](https://youtu.be/3xToNTtdmME)
 
 [Credits: WilliamRagstad][https://github.com/WilliamRagstad/Font-Manager]
 
