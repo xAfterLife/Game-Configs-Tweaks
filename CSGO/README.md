@@ -62,7 +62,7 @@ This is a tool to Change your In-Game Font-Style.
     <li
     >Put the [file][language] into YOUR-PATH\steamapps\common\Counter-Strike Global Offensive\csgo\resource</li>
     <li
-    >Add `-language bananagaming to your` Start-Options</li>
+    >Add `-language bananagaming` to your Start-Options</li>
 </ol>
 
 <div align=center
@@ -72,9 +72,12 @@ This is a tool to Change your In-Game Font-Style.
 
 </div>
 
+[Credits][languagecredits]
+
 [autoexec]: autoexec.cfg
 [fontmanager]: FontManager.exe
 [credits]: https://github.com/WilliamRagstad/Font-Manager
 [radar]: Simple%20Radar.zip
 [radarcredits]: https://csgoconsole.com/mods/text-color-mod/
 [language]: csgo_bananagaming.txt
+[languagecredits]: https://maximhere.me/modifications/
