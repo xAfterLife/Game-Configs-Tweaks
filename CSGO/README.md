@@ -65,6 +65,13 @@ This is a tool to Change your In-Game Font-Style.
     >Add `-language bananagaming to your` Start-Options</li>
 </ol>
 
+<div align=center
+>
+
+[![BananaGaming](https://img.youtube.com/vi/fbNkI_M1byw/0.jpg)](https://www.youtube.com/watch?v=fbNkI_M1byw)
+
+</div>
+
 [autoexec]: autoexec.cfg
 [fontmanager]: FontManager.exe
 [credits]: https://github.com/WilliamRagstad/Font-Manager
