@@ -36,9 +36,7 @@ This is a tool to Change your In-Game Font-Style.
     <li>For best results play with resolutions that have a height of 1024 or greater.</li>
 </ol>
 
-<div align=center>
 [![BananaGaming](https://img.youtube.com/vi/g9aaU6LXfOw/0.jpg)](https://www.youtube.com/watch?v=g9aaU6LXfOw)
-</div>
 
 [Credits][radarcredits]
 
