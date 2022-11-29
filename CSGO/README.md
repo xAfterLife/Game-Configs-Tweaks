@@ -20,7 +20,9 @@ Change the Values present in the `--- Customize me ---` Section
 This is a tool to Change your In-Game Font-Style.
 
 <div align=center>
+
 [![BananaGaming](https://img.youtube.com/vi/3xToNTtdmME/0.jpg)](https://www.youtube.com/watch?v=3xToNTtdmME)
+
 </div>
 
 [Credits: WilliamRagstad][credits]
@@ -37,7 +39,9 @@ This is a tool to Change your In-Game Font-Style.
 </ol>
 
 <div align=center>
+
 [![BananaGaming](https://img.youtube.com/vi/g9aaU6LXfOw/0.jpg)](https://www.youtube.com/watch?v=g9aaU6LXfOw)
+
 </div>
 
 [Credits][radarcredits]
