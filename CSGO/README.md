@@ -60,7 +60,7 @@ This is a tool to Change your In-Game Font-Style.
 <ol
 >
     <li
-    >Put the [file][language] into YOUR-PATH\steamapps\common\Counter-Strike Global Offensive\csgo\resource</li>
+    >Put the file into YOUR-PATH\steamapps\common\Counter-Strike Global Offensive\csgo\resource</li>
     <li
     >Add `-language bananagaming` to your Start-Options</li>
 </ol>
