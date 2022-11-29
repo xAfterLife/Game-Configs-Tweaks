@@ -20,7 +20,7 @@ Change the Values present in the `--- Customize me ---` Section
 This is a tool to Change your In-Game Font-Style.
 
 <div align=center>
-        [![Watch the video](https://img.youtube.com/vi/3xToNTtdmME/hqdefault.jpg)](https://youtu.be/3xToNTtdmME)
+[![Watch the video](https://img.youtube.com/vi/3xToNTtdmME/hqdefault.jpg)](https://youtu.be/3xToNTtdmME)
 </div>
 
 [Credits: WilliamRagstad][credits]
@@ -37,7 +37,7 @@ This is a tool to Change your In-Game Font-Style.
 </ol>
 
 <div align=center>
-        [![Watch the video](https://img.youtube.com/vi/g9aaU6LXfOw/hqdefault.jpg)](https://youtu.be/g9aaU6LXfOw)
+[![Watch the video](https://img.youtube.com/vi/g9aaU6LXfOw/hqdefault.jpg)](https://youtu.be/g9aaU6LXfOw)
 </div>
 
 [Credits][radarcredits]
