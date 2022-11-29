@@ -12,7 +12,7 @@ Currently Supported Games
 <ul
 >
     <li
-    >Cunter-Strike: Global Offensive</li>
+    >Counter-Strike: Global Offensive</li>
     <li
     >Apex Legends</li>
     <li
