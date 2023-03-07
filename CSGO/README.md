@@ -74,6 +74,20 @@ This is a tool to Change your In-Game Font-Style.
 
 [Credits][languagecredits]
 
+## [VibranceGUI][vibranceGUI]
+
+Automating NVIDIAs Digitial Vibrance Control and AMDs Saturation for any game
+
+Easy to use. VAC safe. Lightweight.
+
+<div align=center
+>
+
+![VibranceGUI](https://vibrancegui.com/images/vibranceGUI2.PNG)
+</div>
+
+[Credits][vibranceGUIcredits]
+
 [autoexec]: autoexec.cfg
 [fontmanager]: FontManager.exe
 [credits]: https://github.com/WilliamRagstad/Font-Manager
@@ -81,3 +95,5 @@ This is a tool to Change your In-Game Font-Style.
 [radarcredits]: https://csgoconsole.com/mods/text-color-mod/
 [language]: csgo_bananagaming.txt
 [languagecredits]: https://maximhere.me/modifications/
+[vibranceGUI]: vibranceGUI.exe
+[vibranceGUIcredits]: https://vibrancegui.com/
