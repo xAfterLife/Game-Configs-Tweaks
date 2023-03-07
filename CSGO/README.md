@@ -3,12 +3,14 @@
 Configs and Tweaks for Gameplay and Performance improvements
 
 ## Launch Options
+### You don't want to be missing out on those sweet FPS, do you?
 
 Steam -> Right-Click CSGO -> Settings -> Launch Parameters
 
 `-high -novid +exec autoexec -noforcemparms -noforcemaccel -noforcemspd -noaafonts -nojoy -noipx -language bananagaming`
 
 ## [Autoexec.cfg][autoexec]
+### Battle-Tested optimal Settings to give you the highest Performance, Visibility and Audio Ques!
 
 Put this into your Steam Library under the following Path
 `<YOUR-PATH>\steamapps\common\Counter-Strike Global Offensive\csgo\cfg\`
@@ -16,6 +18,7 @@ Put this into your Steam Library under the following Path
 Change the Values present in the `--- Customize me ---` Section
 
 ## [FontManager][fontmanager]
+### Change your In-Game Font.. because.. Why not?
 
 This is a tool to Change your In-Game Font-Style.
 
@@ -29,6 +32,7 @@ This is a tool to Change your In-Game Font-Style.
 [Credits: WilliamRagstad][credits]
 
 ## [Simple Radar][radar]
+### Cleaner and more accurate Minimap
 
 <ol
 >
@@ -56,6 +60,7 @@ This is a tool to Change your In-Game Font-Style.
 [Credits][radarcredits]
 
 ## [Language][language]
+### Better Rank-Display, Automated Call-outs, etc.
 
 <ol
 >
@@ -75,6 +80,7 @@ This is a tool to Change your In-Game Font-Style.
 [Credits][languagecredits]
 
 ## [VibranceGUI][vibranceGUI]
+### Automate your Digital-Saturation to 100% while your Game is Focused!
 
 Automating NVIDIAs Digitial Vibrance Control and AMDs Saturation for any game
 
